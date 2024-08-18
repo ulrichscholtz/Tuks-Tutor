@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("C H A T S"),
+        title: Text("U S E R S"),
         backgroundColor: Colors.transparent,
         foregroundColor: Colors.grey,
       ),

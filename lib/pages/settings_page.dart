@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:tuks_tutor_dev/pages/blocked_users_page.dart';
-import 'package:tuks_tutor_dev/pages/home_page.dart';
 
 class SettingsPage extends StatelessWidget {
   const SettingsPage({super.key});
